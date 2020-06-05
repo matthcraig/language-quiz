@@ -11,7 +11,7 @@ $(document).ready(function(){
 
     if (total === 6) {
       $(".result1").show();
-    } else if (total === 7) {
+    } else if (total > 6) {
       $(".result2").show();
     }
 
