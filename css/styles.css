@@ -30,3 +30,7 @@ h1 {
 .results {
   text-align: center;
 }
+
+.results .box .img {
+  object-fit: contain;
+}
