@@ -22,7 +22,7 @@ $(document).ready(function(){
 
     $(".name").text(personInput);
     $(".language").text(language);
-    $(".results").slideUp();
+    $(".results").fadeIn(2000);
     event.preventDefault();
   })
 });
