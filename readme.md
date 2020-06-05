@@ -1,37 +1,53 @@
-# _{Application Name}_
+# The Programming Language Selector
 
-#### _{Brief description of application}, {Date of current version}_
+#### A Programming Language Quiz, June, 2020
 
-#### By _**{List of contributors}**_
+#### By _**Matthew Craig**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This page is a quiz to determine your ideal programming language_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Access to a computer or tablet/smartphone_
+* _Internet connection_
+* _Browser software_
+* _A mouse or trackpad (if using a computer)_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_For an initial look, if the above requirements are met, you can view the pages code through the github repositories. For a more in depth look, you may need to install a code editing tool such as visual studio code or atom. Once that code editing software is installed, you may download the repository and open the html file, and it will open in your default browser as it would look when published to the web. It should be noted that this tactic is untested on smartphones and tablets._
+
+## Setup/Installation Requirements (continued)
+Open by downloading:
+1. Download this repository onto your computer
+2. Double click index.html to open it in your web browser
+
+Open via Bash/GitBash:
+1. Clone this repository onto your computer:
+`git clone https://github.com/mgcraig78/language-quiz`
+2. Navigate into the `Portfolio2020` directory in Visual Studio Code or preferred text editor
+`code .`
+3. Open index.html in Chrome or preferred browser:
+`open index.html`
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Contact - Matthew Craig, mgcraig78@gmail.com_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Html, css, JavaScript, created with visual studio code and previewed with Google Chrome_
+
+## Web address
+
+https://mgcraig78.github.io/language-quiz
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT License*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_Matthew Craig_**
