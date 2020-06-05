@@ -2,6 +2,10 @@
   display: none;
 }
 
-#secondQuestion {
-  min-width: 60px;
+.box {
+  margin: 20px;
+  padding: 10px;
+  background-color: whitesmoke;
+  border: 2px solid rgb(124, 104, 74);
+  width: 90%;
 }
