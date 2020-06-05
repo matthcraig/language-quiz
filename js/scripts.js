@@ -23,7 +23,7 @@ $(document).ready(function(){
     $(".name").text(personInput);
     $(".language").text(language);
 
-    $(".results").show();
+    $(".results").slideUp();
 
     event.preventDefault();
     
