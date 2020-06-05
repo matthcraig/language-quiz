@@ -2,6 +2,13 @@
   display: none;
 }
 
+.jumbotron {
+  background-image: url("https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
 h1 {
   text-align: center;
   font-size: 70px;

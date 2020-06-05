@@ -10,14 +10,14 @@ $(document).ready(function(){
     const total = (firstQuestion + secondQuestion + thirdQuestion + fourthQuestion + fifthQuestion + sixthQuestion);
     let language;
 
-    if (total >= 6 && total <= 9) {
+    if (total >= 6 && total <= 10) {
       language = ("HTML");
-    } else if (total > 9 && total <= 13) {
+    } else if (total > 10 && total <= 14) {
       language = ("JavaScript");
-    } else if (total > 13 && total <= 16) {
+    } else if (total > 14 && total <= 18) {
       language = ("C");
-    } else if (total > 16) {
-      language = ("I'm sorry, try again...");
+    } else if (total > 18) {
+      language = (".......Please Try Again.......");
     }
 
     $(".name").text(personInput);
